@@ -1,0 +1,16 @@
+{
+  "feature": "Career Comparison",
+  "compare_categories": [
+    "main skills",
+    "education path",
+    "beginner difficulty",
+    "typical tasks",
+    "creativity",
+    "analytical work",
+    "team interaction",
+    "learning curve",
+    "portfolio opportunities",
+    "student preferences"
+  ],
+  "max_careers": 4
+}
