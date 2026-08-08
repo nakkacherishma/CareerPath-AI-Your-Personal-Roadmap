@@ -1,0 +1,18 @@
+{
+  "features": [
+    "Career Switch Explorer",
+    "Career Decision Matrix",
+    "Top 3 Career Options",
+    "First-Step Generator"
+  ],
+  "decision_factors": [
+    "interest",
+    "current skills",
+    "learning commitment",
+    "work style",
+    "education compatibility",
+    "project opportunities",
+    "personal preference"
+  ],
+  "first_step_output": "Give one simple next action and three immediate actions after a career is selected."
+}
