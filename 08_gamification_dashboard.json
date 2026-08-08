@@ -1,0 +1,20 @@
+{
+  "badges": [
+    "Career Explorer",
+    "Challenge Completed",
+    "Career Comparator",
+    "Skill Detective",
+    "Path Explorer",
+    "Decision Maker",
+    "First Step Taken"
+  ],
+  "dashboard": [
+    "careers explored",
+    "challenges completed",
+    "careers compared",
+    "favorite career",
+    "career shortlist",
+    "next step"
+  ],
+  "progress_note": "Progress indicators represent exploration progress, not career suitability."
+}
