@@ -1,0 +1,87 @@
+{
+  "app_name": "CareerLens AI",
+  "tagline": "Explore. Experience. Compare. Choose Your Future.",
+  "platform": "AWS PartyRock",
+  "problem_statement": "Education and Careers: From Aspiration to an Achievable Plan",
+  "purpose": "An interactive, student-friendly AI career exploration platform that helps students discover, experience, compare, and choose career paths before creating their first action plan.",
+  "core_user_journey": [
+    "Aspiration",
+    "Explore",
+    "Experience",
+    "Compare",
+    "Decide",
+    "First Step"
+  ],
+  "features": [
+    "Interactive welcome screen",
+    "Quick student profile",
+    "Career discovery engine",
+    "Career personality snapshot",
+    "Career experience simulation",
+    "Mini career challenges",
+    "Career comparison tool",
+    "Day-in-the-career simulation",
+    "Education path explorer",
+    "Skill preview",
+    "Learning journey preview",
+    "Career compatibility insights",
+    "Career switch explorer",
+    "Career decision matrix",
+    "Career exploration progress",
+    "Career questions AI",
+    "Top 3 career options",
+    "First-step generator",
+    "Gamification and badges",
+    "Personal career dashboard",
+    "AI personalization",
+    "Responsible career guidance"
+  ],
+  "ui_ux_requirements": [
+    "Modern and student-friendly",
+    "Simple navigation",
+    "Large interactive cards",
+    "Clear buttons",
+    "Progress bars",
+    "Timelines",
+    "Comparison tables",
+    "Challenge cards",
+    "Minimal text",
+    "Mobile-friendly design",
+    "Clear calls to action"
+  ],
+  "navigation": [
+    "Home",
+    "Explore",
+    "Challenges",
+    "Compare",
+    "My Choices",
+    "Dashboard"
+  ],
+  "ai_behavior": [
+    "Personalize recommendations using student inputs",
+    "Remember education, interests, skills, preferences, explored careers, challenges, and comparisons",
+    "Provide balanced career information",
+    "Do not guarantee jobs or salaries",
+    "Do not claim a challenge determines career suitability",
+    "Present compatibility as guidance, not certainty",
+    "Encourage students to verify official education requirements",
+    "Avoid overwhelming students"
+  ],
+  "final_experience": {
+    "title": "Your Future Doesn't Have To Be A Guess.",
+    "show": [
+      "What I Explored",
+      "What I Learned",
+      "What Interested Me",
+      "What I Chose",
+      "What I Should Do Next"
+    ],
+    "actions": [
+      "Start Exploring My Chosen Career",
+      "Compare Again",
+      "Explore More Careers",
+      "View My Career Dashboard"
+    ]
+  },
+  "partyrock_prompt": "Build a modern, interactive, student-friendly AI-powered web application called “CareerLens AI”.\n\nTagline: “Explore. Experience. Compare. Choose Your Future.”\n\nThe app should help students who are unsure about their career by allowing them to discover, experience, compare, and understand different career paths before choosing one.\n\nThe application should not simply behave like a career quiz or chatbot. It should work as a Career Exploration Lab.\n\nCore journey:\nASPIRATION → EXPLORE → EXPERIENCE → COMPARE → DECIDE → FIRST STEP\n\nCreate:\n1. Interactive welcome screen with “I Know Some Careers I'm Interested In” and “I Have No Idea What Career Fits Me”.\n2. Quick student profile using short questions, dropdowns, buttons, and multiple-choice inputs.\n3. Career discovery engine that recommends 3–6 career areas based on interests, subjects, skills, strengths, hobbies, work style, and education.\n4. Career personality snapshot explaining why careers appeared.\n5. Career Experience Mode where students complete beginner-friendly simulated tasks for careers such as Software Developer, Data Analyst, UI/UX Designer, Cybersecurity Analyst, Business Analyst, and Digital Marketer.\n6. Mini career challenges with a mission, estimated time, skills used, hint, result, and explanation.\n7. Career comparison tool for comparing 2–4 careers across skills, education, beginner difficulty, typical tasks, creativity, analytical work, teamwork, learning curve, portfolio opportunities, and suitability.\n8. “A Day in the Career” illustrative timeline showing realistic beginner-level tasks.\n9. Education Path Explorer showing higher education, skill-based, project/portfolio, and experience-based pathways.\n10. Skill Preview categorizing skills into beginner-friendly, practice-required, and advanced/long-term.\n11. Learning Journey Preview explaining the expected learning progression without judging whether a student can succeed.\n12. Career Compatibility Insight showing why a career may or may not suit the student's interests and what they would need to develop.\n13. Career Switch Explorer for comparing a student's current background with a different career.\n14. Career Decision Matrix helping students evaluate interest, skills, learning commitment, work style, education compatibility, project opportunities, and preferences.\n15. Career Exploration Progress showing careers explored, challenges completed, comparisons made, and skills understood.\n16. Career Questions AI for student questions about careers, education, skills, projects, alternatives, and next steps.\n17. My Top 3 Career Options with reasons and next exploration steps.\n18. First-Step Generator that provides one simple action and three immediate actions after the student chooses a career.\n19. Gamification with badges such as Career Explorer, Challenge Completed, Career Comparator, Skill Detective, Path Explorer, Decision Maker, and First Step Taken.\n20. Personal Career Dashboard showing careers explored, challenges completed, careers compared, favorite career, shortlist, and next step.\n\nUI/UX:\nMake the application modern, clean, attractive, interactive, student-friendly, easy to navigate, and mobile-friendly. Use cards, buttons, progress bars, timelines, comparison tables, challenge cards, icons, expandable sections, and short text. Avoid large blocks of text.\n\nNavigation:\nHome | Explore | Challenges | Compare | My Choices | Dashboard\n\nAI personalization:\nUse the student's education, interests, skills, career preferences, explored careers, challenge results, and comparisons throughout the experience. Do not give the same experience to every student.\n\nResponsible guidance:\nNever guarantee jobs, salaries, admissions, or career outcomes. Never say a student is incapable of a career. Do not treat challenge results or AI compatibility as definitive. Encourage students to verify official education and career requirements. Present multiple possible pathways.\n\nFinal screen:\nTitle: “Your Future Doesn't Have To Be A Guess.”\nShow:\n- What I Explored\n- What I Learned\n- What Interested Me\n- What I Chose\n- What I Should Do Next\n\nButtons:\n- Start Exploring My Chosen Career\n- Compare Again\n- Explore More Careers\n- View My Career Dashboard\n\nThe app should make the student feel:\n“I explored my options, I understand them better, and I know my next step.”\n"
+}
