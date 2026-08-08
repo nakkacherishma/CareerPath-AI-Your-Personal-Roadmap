@@ -1,0 +1,15 @@
+{
+  "feature": "Student Profile",
+  "inputs": [
+    "current education",
+    "course or stream",
+    "favorite subjects",
+    "interests",
+    "existing skills",
+    "career interests",
+    "experience level",
+    "available learning time",
+    "preferred work style"
+  ],
+  "ui": "Use short questions, dropdowns, buttons, multiple-choice options, and allow Skip for now."
+}
