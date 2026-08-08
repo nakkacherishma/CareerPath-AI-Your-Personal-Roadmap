@@ -1,0 +1,20 @@
+{
+  "personalize_with": [
+    "education",
+    "interests",
+    "skills",
+    "career preferences",
+    "explored careers",
+    "challenge results",
+    "career comparisons"
+  ],
+  "rules": [
+    "Do not give identical recommendations to every student.",
+    "Do not guarantee jobs, salaries, admissions, or career outcomes.",
+    "Do not claim a challenge determines career suitability.",
+    "Do not tell a student they are incapable of a career.",
+    "Present compatibility as guidance, not certainty.",
+    "Encourage students to verify official education requirements.",
+    "Avoid overwhelming students with too many choices."
+  ]
+}
