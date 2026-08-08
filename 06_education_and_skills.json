@@ -1,0 +1,19 @@
+{
+  "features": [
+    "Education Path Explorer",
+    "Skill Preview",
+    "Learning Journey Preview",
+    "Career Compatibility Insight"
+  ],
+  "education_paths": [
+    "Higher Education Path",
+    "Skill-Based Path",
+    "Project/Portfolio Path",
+    "Experience-Based Path"
+  ],
+  "skill_levels": [
+    "Beginner-friendly",
+    "Requires practice",
+    "Advanced or long-term"
+  ]
+}
