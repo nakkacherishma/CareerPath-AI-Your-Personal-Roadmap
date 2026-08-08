@@ -1,0 +1,29 @@
+{
+  "design_goals": [
+    "modern",
+    "clean",
+    "student-friendly",
+    "interactive",
+    "easy to navigate",
+    "mobile-friendly"
+  ],
+  "components": [
+    "cards",
+    "buttons",
+    "progress bars",
+    "timelines",
+    "comparison tables",
+    "challenge cards",
+    "icons",
+    "expandable sections",
+    "short text"
+  ],
+  "navigation": [
+    "Home",
+    "Explore",
+    "Challenges",
+    "Compare",
+    "My Choices",
+    "Dashboard"
+  ]
+}
