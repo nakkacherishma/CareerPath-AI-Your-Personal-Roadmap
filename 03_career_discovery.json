@@ -1,0 +1,21 @@
+{
+  "feature": "Career Discovery",
+  "inputs": [
+    "interests",
+    "subjects",
+    "skills",
+    "strengths",
+    "hobbies",
+    "preferred work style",
+    "education"
+  ],
+  "outputs": [
+    "3-6 career areas",
+    "career personality snapshot",
+    "reason each career was recommended",
+    "skills required",
+    "education pathway",
+    "typical entry route"
+  ],
+  "note": "Career matches are guidance, not guaranteed predictions."
+}
