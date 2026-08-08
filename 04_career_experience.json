@@ -1,0 +1,18 @@
+{
+  "feature": "Career Experience Mode",
+  "purpose": "Let students experience beginner-level tasks associated with different careers.",
+  "example_careers": {
+    "Software Developer": "Solve a simple software bug scenario.",
+    "Data Analyst": "Analyze a small dataset and identify a trend.",
+    "UI/UX Designer": "Choose a suitable interface for a user problem.",
+    "Cybersecurity Analyst": "Identify suspicious activity in a simple scenario.",
+    "Business Analyst": "Choose a solution for a business problem.",
+    "Digital Marketer": "Choose an appropriate campaign strategy."
+  },
+  "output": [
+    "challenge result",
+    "skill involved",
+    "educational explanation",
+    "next exploration suggestion"
+  ]
+}
